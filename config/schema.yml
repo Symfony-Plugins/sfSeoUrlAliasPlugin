@@ -1,0 +1,9 @@
+propel:
+  _attributes:      { package: plugins.sfSeoUrlAliasPlugin.lib.model }
+
+  sf_seo_url_friendly:
+    _attributes: { phpName: sfSeoUrlFriendly }
+    id: { type: INTEGER, size: '11', primaryKey: true, autoIncrement: true, required: true }
+    internal_url: { type: VARCHAR, size: '255', required: false }
+    external_url: { type: VARCHAR, size: '255', required: true }
+    _uniques: { uk_external_url: [external_url] }

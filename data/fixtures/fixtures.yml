@@ -1,0 +1,28 @@
+sfSeoUrlFriendly:
+  url_1:
+    internal_url:  article/read/15
+    external_url :  contact-us.html
+  url_2:
+    internal_url:  article/read/15
+    external_url :  company-contact-us.html
+  url_3:
+    internal_url:  article/read/15
+    external_url :  contact-form.html
+  url_4:
+    internal_url:  article/short/16
+    external_url :  company-short-about-us.pdf
+  url_5:
+    internal_url:  article/long/16
+    external_url :  company-about-us.pdf
+  url_6:
+    internal_url:  user/list
+    external_url :  registerd-users.xls
+  url_7:
+    internal_url:  writer/show/321
+    external_url :  adam-mickiewicz.xml
+  url_8:
+    internal_url:  writer/show/123
+    external_url :  antoine-de-saint-exupery.xml
+  url_9:
+    internal_url:  abcedfghijklmnoprst/aaaaabbbbbcccccddddd/111111
+    external_url :  something-very-interesting.html

@@ -1,0 +1,4 @@
+all:
+  sf_seo_url_alias:
+    delimeter: '/'
+    #route_restriction: '^([A-Za-z0-9\_\-\+,])+(\.)+([a-zA-Z0-9\-\_\.\+,])+$'
